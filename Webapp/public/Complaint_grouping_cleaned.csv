@@ -1,0 +1,600 @@
+Product,Sub-product,Issue_Group,Issue,Sub-issue
+Checking or savings account,CD (Certificate of Deposit),Account Management Issues,Closing an account,Can't close your account
+Checking or savings account,CD (Certificate of Deposit),Account Management Issues,Closing an account,Company closed your account
+Checking or savings account,CD (Certificate of Deposit),Account Management Issues,Closing an account,Fees charged for closing account
+Checking or savings account,CD (Certificate of Deposit),Account Management Issues,Closing an account,Funds not received from closed account
+Checking or savings account,CD (Certificate of Deposit),Account Management Issues,Managing an account,Banking errors
+Checking or savings account,CD (Certificate of Deposit),Account Management Issues,Managing an account,Deposits or withdrawals
+Checking or savings account,CD (Certificate of Deposit),Account Management Issues,Managing an account,Funds not handled or disbursed as instructed
+Checking or savings account,CD (Certificate of Deposit),Account Management Issues,Managing an account,Problem accessing account
+Checking or savings account,CD (Certificate of Deposit),Account Management Issues,Managing an account,Problem with fees or penalties
+Checking or savings account,CD (Certificate of Deposit),Account Management Issues,Managing an account,Problem with renewal
+Checking or savings account,CD (Certificate of Deposit),Account Management Issues,Opening an account,Confusing or missing disclosures
+Checking or savings account,CD (Certificate of Deposit),Account Management Issues,Opening an account,Didn't receive terms that were advertised
+Checking or savings account,CD (Certificate of Deposit),Account Management Issues,Opening an account,Unable to open an account
+Checking or savings account,Checking account,Account Management Issues,Closing an account,Can't close your account
+Checking or savings account,Checking account,Account Management Issues,Closing an account,Company closed your account
+Checking or savings account,Checking account,Account Management Issues,Closing an account,Fees charged for closing account
+Checking or savings account,Checking account,Account Management Issues,Closing an account,Funds not received from closed account
+Checking or savings account,Checking account,Account Management Issues,Managing an account,Banking errors
+Checking or savings account,Checking account,Account Management Issues,Managing an account,Cashing a check
+Checking or savings account,Checking account,Account Management Issues,Managing an account,Deposits and withdrawals
+Checking or savings account,Checking account,Account Management Issues,Managing an account,Fee problem
+Checking or savings account,Checking account,Account Management Issues,Managing an account,Funds not handled or disbursed as instructed
+Checking or savings account,Checking account,Account Management Issues,Managing an account,Problem accessing account
+Checking or savings account,Checking account,Account Management Issues,Managing an account,Problem making or receiving payments
+Checking or savings account,Checking account,Account Management Issues,Managing an account,Problem using a debit or ATM card
+Checking or savings account,Checking account,Account Management Issues,Opening an account,Account opened as a result of fraud
+Checking or savings account,Checking account,Account Management Issues,Opening an account,Account opened without my consent or knowledge
+Checking or savings account,Checking account,Account Management Issues,Opening an account,Confusing or missing disclosures
+Checking or savings account,Checking account,Account Management Issues,Opening an account,Didn't receive terms that were advertised
+Checking or savings account,Checking account,Account Management Issues,Opening an account,Unable to open an account
+Checking or savings account,Checking account,Credit Reporting & Identity Protection,Improper use of your report,Credit inquiries on your report that you don't recognize
+Checking or savings account,Checking account,Credit Reporting & Identity Protection,Improper use of your report,Reporting company used your report improperly
+Checking or savings account,Checking account,Credit Reporting & Identity Protection,Incorrect information on your report,Account status incorrect
+Checking or savings account,Checking account,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+Checking or savings account,Checking account,Credit Reporting & Identity Protection,Incorrect information on your report,Old information reappears or never goes away
+Checking or savings account,Checking account,Payment & Transaction Errors,Problem caused by your funds being low,Bounced checks or returned payments
+Checking or savings account,Checking account,Payment & Transaction Errors,Problem caused by your funds being low,Late or other fees
+Checking or savings account,Checking account,Payment & Transaction Errors,Problem caused by your funds being low,Non-sufficient funds and associated fees
+Checking or savings account,Checking account,Payment & Transaction Errors,Problem caused by your funds being low,Overdrafts and overdraft fees
+Checking or savings account,Checking account,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute
+Checking or savings account,Checking account,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report
+Checking or savings account,Checking account,Poor Service & Broken Promises,Problem with a lender or other company charging your account,Can't stop withdrawals from your account
+Checking or savings account,Checking account,Poor Service & Broken Promises,Problem with a lender or other company charging your account,Money was taken from your account on the wrong day or for the wrong amount
+Checking or savings account,Checking account,Poor Service & Broken Promises,Problem with a lender or other company charging your account,Transaction was not authorized
+Checking or savings account,Other banking product or service,Account Management Issues,Closing an account,Can't close your account
+Checking or savings account,Other banking product or service,Account Management Issues,Closing an account,Company closed your account
+Checking or savings account,Other banking product or service,Account Management Issues,Closing an account,Funds not received from closed account
+Checking or savings account,Other banking product or service,Account Management Issues,Managing an account,Banking errors
+Checking or savings account,Other banking product or service,Account Management Issues,Managing an account,Cashing a check
+Checking or savings account,Other banking product or service,Account Management Issues,Managing an account,Deposits and withdrawals
+Checking or savings account,Other banking product or service,Account Management Issues,Managing an account,Fee problem
+Checking or savings account,Other banking product or service,Account Management Issues,Managing an account,Funds not handled or disbursed as instructed
+Checking or savings account,Other banking product or service,Account Management Issues,Managing an account,Problem accessing account
+Checking or savings account,Other banking product or service,Account Management Issues,Managing an account,Problem making or receiving payments
+Checking or savings account,Other banking product or service,Account Management Issues,Managing an account,Problem using a debit or ATM card
+Checking or savings account,Other banking product or service,Account Management Issues,Opening an account,Account opened as a result of fraud
+Checking or savings account,Other banking product or service,Account Management Issues,Opening an account,Account opened without my consent or knowledge
+Checking or savings account,Other banking product or service,Account Management Issues,Opening an account,Confusing or missing disclosures
+Checking or savings account,Other banking product or service,Account Management Issues,Opening an account,Didn't receive terms that were advertised
+Checking or savings account,Other banking product or service,Account Management Issues,Opening an account,Unable to open an account
+Checking or savings account,Other banking product or service,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Billing dispute for services
+Checking or savings account,Other banking product or service,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Didn't receive services that were advertised
+Checking or savings account,Other banking product or service,Credit Reporting & Identity Protection,Improper use of your report,Credit inquiries on your report that you don't recognize
+Checking or savings account,Other banking product or service,Credit Reporting & Identity Protection,Improper use of your report,Reporting company used your report improperly
+Checking or savings account,Other banking product or service,Credit Reporting & Identity Protection,Incorrect information on your report,Account status incorrect
+Checking or savings account,Other banking product or service,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+Checking or savings account,Other banking product or service,Credit Reporting & Identity Protection,Incorrect information on your report,Information is missing that should be on the report
+Checking or savings account,Other banking product or service,Payment & Transaction Errors,Problem caused by your funds being low,Bounced checks or returned payments
+Checking or savings account,Other banking product or service,Payment & Transaction Errors,Problem caused by your funds being low,Late or other fees
+Checking or savings account,Other banking product or service,Payment & Transaction Errors,Problem caused by your funds being low,Non-sufficient funds and associated fees
+Checking or savings account,Other banking product or service,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report
+Checking or savings account,Other banking product or service,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results
+Checking or savings account,Other banking product or service,Poor Service & Broken Promises,Problem with a lender or other company charging your account,Can't stop withdrawals from your account
+Checking or savings account,Other banking product or service,Poor Service & Broken Promises,Problem with a lender or other company charging your account,Money was taken from your account on the wrong day or for the wrong amount
+Checking or savings account,Other banking product or service,Poor Service & Broken Promises,Problem with a lender or other company charging your account,Transaction was not authorized
+Checking or savings account,Savings account,Account Management Issues,Closing an account,Can't close your account
+Checking or savings account,Savings account,Account Management Issues,Closing an account,Company closed your account
+Checking or savings account,Savings account,Account Management Issues,Closing an account,Funds not received from closed account
+Checking or savings account,Savings account,Account Management Issues,Managing an account,Banking errors
+Checking or savings account,Savings account,Account Management Issues,Managing an account,Cashing a check
+Checking or savings account,Savings account,Account Management Issues,Managing an account,Deposits and withdrawals
+Checking or savings account,Savings account,Account Management Issues,Managing an account,Fee problem
+Checking or savings account,Savings account,Account Management Issues,Managing an account,Funds not handled or disbursed as instructed
+Checking or savings account,Savings account,Account Management Issues,Managing an account,Problem accessing account
+Checking or savings account,Savings account,Account Management Issues,Managing an account,Problem making or receiving payments
+Checking or savings account,Savings account,Account Management Issues,Managing an account,Problem using a debit or ATM card
+Checking or savings account,Savings account,Account Management Issues,Opening an account,Account opened as a result of fraud
+Checking or savings account,Savings account,Account Management Issues,Opening an account,Account opened without my consent or knowledge
+Checking or savings account,Savings account,Account Management Issues,Opening an account,Confusing or missing disclosures
+Checking or savings account,Savings account,Account Management Issues,Opening an account,Didn't receive terms that were advertised
+Checking or savings account,Savings account,Account Management Issues,Opening an account,Unable to open an account
+Checking or savings account,Savings account,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+Checking or savings account,Savings account,Payment & Transaction Errors,Problem caused by your funds being low,Bounced checks or returned payments
+Checking or savings account,Savings account,Payment & Transaction Errors,Problem caused by your funds being low,Late or other fees
+Checking or savings account,Savings account,Payment & Transaction Errors,Problem caused by your funds being low,Non-sufficient funds and associated fees
+Checking or savings account,Savings account,Payment & Transaction Errors,Problem caused by your funds being low,Overdrafts and overdraft fees
+Checking or savings account,Savings account,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone
+Checking or savings account,Savings account,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report
+Checking or savings account,Savings account,Poor Service & Broken Promises,Problem with a lender or other company charging your account,Can't stop withdrawals from your account
+Checking or savings account,Savings account,Poor Service & Broken Promises,Problem with a lender or other company charging your account,Money was taken from your account on the wrong day or for the wrong amount
+Checking or savings account,Savings account,Poor Service & Broken Promises,Problem with a lender or other company charging your account,Transaction was not authorized
+Credit card,General-purpose credit card or charge card,Account Management Issues,Closing your account,Can't close your account
+Credit card,General-purpose credit card or charge card,Account Management Issues,Closing your account,Company closed your account
+Credit card,General-purpose credit card or charge card,Credit & Payment Card Issues,Getting a credit card,Application denied
+Credit card,General-purpose credit card or charge card,Credit & Payment Card Issues,Getting a credit card,Card opened without my consent or knowledge
+Credit card,General-purpose credit card or charge card,Credit & Payment Card Issues,Getting a credit card,Delay in processing application
+Credit card,General-purpose credit card or charge card,Credit & Payment Card Issues,Getting a credit card,Problem getting a working replacement card
+Credit card,General-purpose credit card or charge card,Credit & Payment Card Issues,Getting a credit card,Sent card you never applied for
+Credit card,General-purpose credit card or charge card,Credit & Payment Card Issues,Problem with a purchase shown on your statement,Card was charged for something you did not purchase with the card
+Credit card,General-purpose credit card or charge card,Credit & Payment Card Issues,Problem with a purchase shown on your statement,Credit card company isn't resolving a dispute about a purchase on your statement
+Credit card,General-purpose credit card or charge card,Credit & Payment Card Issues,Problem with a purchase shown on your statement,Overcharged for something you did purchase with the card
+Credit card,General-purpose credit card or charge card,Credit & Payment Card Issues,Trouble using your card,Account sold or transferred to another company
+Credit card,General-purpose credit card or charge card,Credit & Payment Card Issues,Trouble using your card,Can't use card to make purchases
+Credit card,General-purpose credit card or charge card,Credit & Payment Card Issues,Trouble using your card,Credit card company won't increase or decrease your credit limit
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Billing dispute for services
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Didn't receive services that were advertised
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Problem with product or service terms changing
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Received unwanted marketing or advertising
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Improper use of your report,Credit inquiries on your report that you don't recognize
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Improper use of your report,Received unsolicited financial product or insurance offers after opting out
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Improper use of your report,Report provided to employer without your written authorization
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Improper use of your report,Reporting company used your report improperly
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Account information incorrect
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Account status incorrect
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Information is missing that should be on the report
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Old information reappears or never goes away
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Personal information incorrect
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Public record information inaccurate
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Unable to get your credit report or credit score,Other problem getting your report or credit score
+Credit card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Unable to get your credit report or credit score,Problem getting your free annual credit report
+Credit card,General-purpose credit card or charge card,Loan & Mortgage Problems,Struggling to pay your bill,Credit card company won't work with you while you're going through financial hardship
+Credit card,General-purpose credit card or charge card,Loan & Mortgage Problems,Struggling to pay your bill,Filed for bankruptcy
+Credit card,General-purpose credit card or charge card,Loan & Mortgage Problems,Struggling to pay your bill,Problem lowering your monthly payments
+Credit card,General-purpose credit card or charge card,Misleading Information & Advertising,"Advertising and marketing, including promotional offers",Confusing or misleading advertising about the credit card
+Credit card,General-purpose credit card or charge card,Misleading Information & Advertising,"Advertising and marketing, including promotional offers",Didn't receive advertised or promotional terms
+Credit card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Add-on products and services
+Credit card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Credit card company forcing arbitration
+Credit card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Other problem
+Credit card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Privacy issues
+Credit card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with balance transfer
+Credit card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with cash advances
+Credit card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with convenience check
+Credit card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with customer service
+Credit card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with rewards from credit card
+Credit card,General-purpose credit card or charge card,Payment & Transaction Errors,Problem when making payments,Problem during payment process
+Credit card,General-purpose credit card or charge card,Payment & Transaction Errors,Problem when making payments,You never received your bill or did not know a payment was due
+Credit card,General-purpose credit card or charge card,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone
+Credit card,General-purpose credit card or charge card,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Investigation took more than 30 days
+Credit card,General-purpose credit card or charge card,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute
+Credit card,General-purpose credit card or charge card,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report
+Credit card,General-purpose credit card or charge card,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results
+Credit card,General-purpose credit card or charge card,Unexpected Fees & Charges,Fees or interest,Charged too much interest
+Credit card,General-purpose credit card or charge card,Unexpected Fees & Charges,Fees or interest,Problem with fees
+Credit card,General-purpose credit card or charge card,Unexpected Fees & Charges,Fees or interest,Unexpected increase in interest rate
+Credit card,Store credit card,Account Management Issues,Closing your account,Can't close your account
+Credit card,Store credit card,Account Management Issues,Closing your account,Company closed your account
+Credit card,Store credit card,Credit & Payment Card Issues,Getting a credit card,Application denied
+Credit card,Store credit card,Credit & Payment Card Issues,Getting a credit card,Card opened without my consent or knowledge
+Credit card,Store credit card,Credit & Payment Card Issues,Getting a credit card,Delay in processing application
+Credit card,Store credit card,Credit & Payment Card Issues,Getting a credit card,Problem getting a working replacement card
+Credit card,Store credit card,Credit & Payment Card Issues,Getting a credit card,Sent card you never applied for
+Credit card,Store credit card,Credit & Payment Card Issues,Problem with a purchase shown on your statement,Card was charged for something you did not purchase with the card
+Credit card,Store credit card,Credit & Payment Card Issues,Problem with a purchase shown on your statement,Credit card company isn't resolving a dispute about a purchase on your statement
+Credit card,Store credit card,Credit & Payment Card Issues,Problem with a purchase shown on your statement,Overcharged for something you did purchase with the card
+Credit card,Store credit card,Credit & Payment Card Issues,Trouble using your card,Account sold or transferred to another company
+Credit card,Store credit card,Credit & Payment Card Issues,Trouble using your card,Can't use card to make purchases
+Credit card,Store credit card,Credit & Payment Card Issues,Trouble using your card,Credit card company won't increase or decrease your credit limit
+Credit card,Store credit card,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Billing dispute for services
+Credit card,Store credit card,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Problem with product or service terms changing
+Credit card,Store credit card,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Received unwanted marketing or advertising
+Credit card,Store credit card,Credit Reporting & Identity Protection,Improper use of your report,Credit inquiries on your report that you don't recognize
+Credit card,Store credit card,Credit Reporting & Identity Protection,Improper use of your report,Reporting company used your report improperly
+Credit card,Store credit card,Credit Reporting & Identity Protection,Incorrect information on your report,Account information incorrect
+Credit card,Store credit card,Credit Reporting & Identity Protection,Incorrect information on your report,Account status incorrect
+Credit card,Store credit card,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+Credit card,Store credit card,Credit Reporting & Identity Protection,Incorrect information on your report,Information is missing that should be on the report
+Credit card,Store credit card,Credit Reporting & Identity Protection,Incorrect information on your report,Old information reappears or never goes away
+Credit card,Store credit card,Credit Reporting & Identity Protection,Incorrect information on your report,Public record information inaccurate
+Credit card,Store credit card,Loan & Mortgage Problems,Struggling to pay your bill,Credit card company won't work with you while you're going through financial hardship
+Credit card,Store credit card,Loan & Mortgage Problems,Struggling to pay your bill,Filed for bankruptcy
+Credit card,Store credit card,Misleading Information & Advertising,"Advertising and marketing, including promotional offers",Confusing or misleading advertising about the credit card
+Credit card,Store credit card,Misleading Information & Advertising,"Advertising and marketing, including promotional offers",Didn't receive advertised or promotional terms
+Credit card,Store credit card,Other or Unclassified Issues,"Other features, terms, or problems",Other problem
+Credit card,Store credit card,Other or Unclassified Issues,"Other features, terms, or problems",Privacy issues
+Credit card,Store credit card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with cash advances
+Credit card,Store credit card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with customer service
+Credit card,Store credit card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with rewards from credit card
+Credit card,Store credit card,Payment & Transaction Errors,Problem when making payments,Problem during payment process
+Credit card,Store credit card,Payment & Transaction Errors,Problem when making payments,You never received your bill or did not know a payment was due
+Credit card,Store credit card,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone
+Credit card,Store credit card,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Investigation took more than 30 days
+Credit card,Store credit card,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute
+Credit card,Store credit card,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report
+Credit card,Store credit card,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results
+Credit card,Store credit card,Unexpected Fees & Charges,Fees or interest,Charged too much interest
+Credit card,Store credit card,Unexpected Fees & Charges,Fees or interest,Problem with fees
+Credit card,Store credit card,Unexpected Fees & Charges,Fees or interest,Unexpected increase in interest rate
+Credit card or prepaid card,General-purpose credit card or charge card,Account Management Issues,Closing your account,Can't close your account
+Credit card or prepaid card,General-purpose credit card or charge card,Account Management Issues,Closing your account,Company closed your account
+Credit card or prepaid card,General-purpose credit card or charge card,Credit & Payment Card Issues,Getting a credit card,Application denied
+Credit card or prepaid card,General-purpose credit card or charge card,Credit & Payment Card Issues,Getting a credit card,Card opened as result of identity theft or fraud
+Credit card or prepaid card,General-purpose credit card or charge card,Credit & Payment Card Issues,Getting a credit card,Delay in processing application
+Credit card or prepaid card,General-purpose credit card or charge card,Credit & Payment Card Issues,Getting a credit card,Problem getting a working replacement card
+Credit card or prepaid card,General-purpose credit card or charge card,Credit & Payment Card Issues,Getting a credit card,Sent card you never applied for
+Credit card or prepaid card,General-purpose credit card or charge card,Credit & Payment Card Issues,Problem with a purchase shown on your statement,Card was charged for something you did not purchase with the card
+Credit card or prepaid card,General-purpose credit card or charge card,Credit & Payment Card Issues,Problem with a purchase shown on your statement,Credit card company isn't resolving a dispute about a purchase on your statement
+Credit card or prepaid card,General-purpose credit card or charge card,Credit & Payment Card Issues,Problem with a purchase shown on your statement,Overcharged for something you did purchase with the card
+Credit card or prepaid card,General-purpose credit card or charge card,Credit & Payment Card Issues,Trouble using your card,Account sold or transferred to another company
+Credit card or prepaid card,General-purpose credit card or charge card,Credit & Payment Card Issues,Trouble using your card,Can't use card to make purchases
+Credit card or prepaid card,General-purpose credit card or charge card,Credit & Payment Card Issues,Trouble using your card,Credit card company won't increase or decrease your credit limit
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Billing dispute for services
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Didn't receive services that were advertised
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Problem with product or service terms changing
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Received unwanted marketing or advertising
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Improper use of your report,Credit inquiries on your report that you don't recognize
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Improper use of your report,Received unsolicited financial product or insurance offers after opting out
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Improper use of your report,Report provided to employer without your written authorization
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Improper use of your report,Reporting company used your report improperly
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Account information incorrect
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Account status incorrect
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Information is missing that should be on the report
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Old information reappears or never goes away
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Personal information incorrect
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Incorrect information on your report,Public record information inaccurate
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Investigation took more than 30 days
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Problem with personal statement of dispute
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Was not notified of investigation status or results
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Unable to get your credit report or credit score,Other problem getting your report or credit score
+Credit card or prepaid card,General-purpose credit card or charge card,Credit Reporting & Identity Protection,Unable to get your credit report or credit score,Problem getting your free annual credit report
+Credit card or prepaid card,General-purpose credit card or charge card,Loan & Mortgage Problems,Struggling to pay your bill,Credit card company won't work with you while you're going through financial hardship
+Credit card or prepaid card,General-purpose credit card or charge card,Loan & Mortgage Problems,Struggling to pay your bill,Filed for bankruptcy
+Credit card or prepaid card,General-purpose credit card or charge card,Loan & Mortgage Problems,Struggling to pay your bill,Problem lowering your monthly payments
+Credit card or prepaid card,General-purpose credit card or charge card,Misleading Information & Advertising,"Advertising and marketing, including promotional offers",Confusing or misleading advertising about the credit card
+Credit card or prepaid card,General-purpose credit card or charge card,Misleading Information & Advertising,"Advertising and marketing, including promotional offers",Didn't receive advertised or promotional terms
+Credit card or prepaid card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Add-on products and services
+Credit card or prepaid card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Credit card company forcing arbitration
+Credit card or prepaid card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Other problem
+Credit card or prepaid card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Privacy issues
+Credit card or prepaid card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with balance transfer
+Credit card or prepaid card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with cash advances
+Credit card or prepaid card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with convenience check
+Credit card or prepaid card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with customer service
+Credit card or prepaid card,General-purpose credit card or charge card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with rewards from credit card
+Credit card or prepaid card,General-purpose credit card or charge card,Payment & Transaction Errors,Problem when making payments,Problem during payment process
+Credit card or prepaid card,General-purpose credit card or charge card,Payment & Transaction Errors,Problem when making payments,You never received your bill or did not know a payment was due
+Credit card or prepaid card,General-purpose credit card or charge card,Unexpected Fees & Charges,Fees or interest,Charged too much interest
+Credit card or prepaid card,General-purpose credit card or charge card,Unexpected Fees & Charges,Fees or interest,Problem with fees
+Credit card or prepaid card,General-purpose credit card or charge card,Unexpected Fees & Charges,Fees or interest,Unexpected increase in interest rate
+Credit card or prepaid card,General-purpose prepaid card,Credit & Payment Card Issues,Problem getting a card or closing an account,Trouble closing card
+Credit card or prepaid card,General-purpose prepaid card,Credit & Payment Card Issues,Problem getting a card or closing an account,"Trouble getting, activating, or registering a card"
+Credit card or prepaid card,General-purpose prepaid card,Credit & Payment Card Issues,Problem with a purchase or transfer,Card company isn't resolving a dispute about a purchase or transfer
+Credit card or prepaid card,General-purpose prepaid card,Credit & Payment Card Issues,Problem with a purchase or transfer,Charged for a purchase or transfer you did not make with the card
+Credit card or prepaid card,General-purpose prepaid card,Credit & Payment Card Issues,Problem with a purchase or transfer,Overcharged for a purchase or transfer you did make with the card
+Credit card or prepaid card,General-purpose prepaid card,Credit & Payment Card Issues,Trouble using the card,Problem using the card to withdraw money from an ATM
+Credit card or prepaid card,General-purpose prepaid card,Credit & Payment Card Issues,Trouble using the card,Problem with direct deposit
+Credit card or prepaid card,General-purpose prepaid card,Credit & Payment Card Issues,Trouble using the card,Trouble getting information about the card
+Credit card or prepaid card,General-purpose prepaid card,Misleading Information & Advertising,Advertising,Changes in terms from what was offered or advertised
+Credit card or prepaid card,Gift card,Credit & Payment Card Issues,Problem getting a card or closing an account,"Trouble getting, activating, or registering a card"
+Credit card or prepaid card,Gift card,Credit & Payment Card Issues,Problem with a purchase or transfer,Card company isn't resolving a dispute about a purchase or transfer
+Credit card or prepaid card,Gift card,Credit & Payment Card Issues,Problem with a purchase or transfer,Charged for a purchase or transfer you did not make with the card
+Credit card or prepaid card,Gift card,Credit & Payment Card Issues,Trouble using the card,Trouble using the card to spend money in a store or online
+Credit card or prepaid card,Gift card,Misleading Information & Advertising,Advertising,Changes in terms from what was offered or advertised
+Credit card or prepaid card,Government benefit card,Credit & Payment Card Issues,Problem getting a card or closing an account,"Trouble getting, activating, or registering a card"
+Credit card or prepaid card,Government benefit card,Credit & Payment Card Issues,Problem with a purchase or transfer,Card company isn't resolving a dispute about a purchase or transfer
+Credit card or prepaid card,Store credit card,Account Management Issues,Closing your account,Can't close your account
+Credit card or prepaid card,Store credit card,Account Management Issues,Closing your account,Company closed your account
+Credit card or prepaid card,Store credit card,Credit & Payment Card Issues,Getting a credit card,Application denied
+Credit card or prepaid card,Store credit card,Credit & Payment Card Issues,Getting a credit card,Card opened as result of identity theft or fraud
+Credit card or prepaid card,Store credit card,Credit & Payment Card Issues,Getting a credit card,Delay in processing application
+Credit card or prepaid card,Store credit card,Credit & Payment Card Issues,Getting a credit card,Problem getting a working replacement card
+Credit card or prepaid card,Store credit card,Credit & Payment Card Issues,Getting a credit card,Sent card you never applied for
+Credit card or prepaid card,Store credit card,Credit & Payment Card Issues,Problem with a purchase shown on your statement,Card was charged for something you did not purchase with the card
+Credit card or prepaid card,Store credit card,Credit & Payment Card Issues,Problem with a purchase shown on your statement,Credit card company isn't resolving a dispute about a purchase on your statement
+Credit card or prepaid card,Store credit card,Credit & Payment Card Issues,Problem with a purchase shown on your statement,Overcharged for something you did purchase with the card
+Credit card or prepaid card,Store credit card,Credit & Payment Card Issues,Trouble using your card,Can't use card to make purchases
+Credit card or prepaid card,Store credit card,Credit & Payment Card Issues,Trouble using your card,Credit card company won't increase or decrease your credit limit
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Improper use of your report,Credit inquiries on your report that you don't recognize
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Improper use of your report,Report provided to employer without your written authorization
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Improper use of your report,Reporting company used your report improperly
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Incorrect information on your report,Account information incorrect
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Incorrect information on your report,Account status incorrect
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Incorrect information on your report,Information is missing that should be on the report
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Incorrect information on your report,Personal information incorrect
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Incorrect information on your report,Public record information inaccurate
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Problem with personal statement of dispute
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Was not notified of investigation status or results
+Credit card or prepaid card,Store credit card,Credit Reporting & Identity Protection,Unable to get your credit report or credit score,Other problem getting your report or credit score
+Credit card or prepaid card,Store credit card,Loan & Mortgage Problems,Struggling to pay your bill,Credit card company won't work with you while you're going through financial hardship
+Credit card or prepaid card,Store credit card,Loan & Mortgage Problems,Struggling to pay your bill,Problem lowering your monthly payments
+Credit card or prepaid card,Store credit card,Misleading Information & Advertising,"Advertising and marketing, including promotional offers",Confusing or misleading advertising about the credit card
+Credit card or prepaid card,Store credit card,Misleading Information & Advertising,"Advertising and marketing, including promotional offers",Didn't receive advertised or promotional terms
+Credit card or prepaid card,Store credit card,Other or Unclassified Issues,"Other features, terms, or problems",Credit card company forcing arbitration
+Credit card or prepaid card,Store credit card,Other or Unclassified Issues,"Other features, terms, or problems",Other problem
+Credit card or prepaid card,Store credit card,Other or Unclassified Issues,"Other features, terms, or problems",Privacy issues
+Credit card or prepaid card,Store credit card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with customer service
+Credit card or prepaid card,Store credit card,Other or Unclassified Issues,"Other features, terms, or problems",Problem with rewards from credit card
+Credit card or prepaid card,Store credit card,Payment & Transaction Errors,Problem when making payments,Problem during payment process
+Credit card or prepaid card,Store credit card,Payment & Transaction Errors,Problem when making payments,You never received your bill or did not know a payment was due
+Credit card or prepaid card,Store credit card,Unexpected Fees & Charges,Fees or interest,Charged too much interest
+Credit card or prepaid card,Store credit card,Unexpected Fees & Charges,Fees or interest,Problem with fees
+Credit card or prepaid card,Store credit card,Unexpected Fees & Charges,Fees or interest,Unexpected increase in interest rate
+Credit card or prepaid card,Student prepaid card,Credit & Payment Card Issues,Problem with a purchase or transfer,Card company isn't resolving a dispute about a purchase or transfer
+Credit reporting or other personal consumer reports,Credit reporting,Credit & Payment Card Issues,Getting a credit card,Card opened without my consent or knowledge
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Billing dispute for services
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Didn't receive services that were advertised
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Problem with product or service terms changing
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Received unwanted marketing or advertising
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Improper use of your report,Credit inquiries on your report that you don't recognize
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Improper use of your report,Received unsolicited financial product or insurance offers after opting out
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Improper use of your report,Report provided to employer without your written authorization
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Improper use of your report,Reporting company used your report improperly
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Account information incorrect
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Account status incorrect
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Information is missing that should be on the report
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Old information reappears or never goes away
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Personal information incorrect
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Public record information inaccurate
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Unable to get your credit report or credit score,Other problem getting your report or credit score
+Credit reporting or other personal consumer reports,Credit reporting,Credit Reporting & Identity Protection,Unable to get your credit report or credit score,Problem getting your free annual credit report
+Credit reporting or other personal consumer reports,Credit reporting,Other or Unclassified Issues,"Other features, terms, or problems",Other problem
+Credit reporting or other personal consumer reports,Credit reporting,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone
+Credit reporting or other personal consumer reports,Credit reporting,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Investigation took more than 30 days
+Credit reporting or other personal consumer reports,Credit reporting,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute
+Credit reporting or other personal consumer reports,Credit reporting,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report
+Credit reporting or other personal consumer reports,Credit reporting,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Identity theft protection or other monitoring services,Billing dispute for services
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Identity theft protection or other monitoring services,Didn't receive services that were advertised
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Identity theft protection or other monitoring services,Problem canceling credit monitoring or identify theft protection service
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Identity theft protection or other monitoring services,Problem with product or service terms changing
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Identity theft protection or other monitoring services,Received unwanted marketing or advertising
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Improper use of your report,Received unsolicited financial product or insurance offers after opting out
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Improper use of your report,Report provided to employer without your written authorization
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Improper use of your report,Reporting company used your report improperly
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Incorrect information on your report,Information is incorrect
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Incorrect information on your report,Information that should be on the report is missing
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Incorrect information on your report,Old information reappears or never goes away
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Incorrect information on your report,Personal information incorrect
+Credit reporting or other personal consumer reports,Other personal consumer report,Credit Reporting & Identity Protection,Incorrect information on your report,Public record information inaccurate
+Credit reporting or other personal consumer reports,Other personal consumer report,Poor Service & Broken Promises,Problem with a company's investigation into an existing issue,Difficulty submitting a dispute or getting information about a dispute over the phone
+Credit reporting or other personal consumer reports,Other personal consumer report,Poor Service & Broken Promises,Problem with a company's investigation into an existing issue,Investigation took more than 30 days
+Credit reporting or other personal consumer reports,Other personal consumer report,Poor Service & Broken Promises,Problem with a company's investigation into an existing issue,Problem with personal statement of dispute
+Credit reporting or other personal consumer reports,Other personal consumer report,Poor Service & Broken Promises,Problem with a company's investigation into an existing issue,Their investigation did not fix an error on your report
+Credit reporting or other personal consumer reports,Other personal consumer report,Poor Service & Broken Promises,Problem with a company's investigation into an existing issue,Was not notified of investigation status or results
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit & Payment Card Issues,Getting a credit card,Card opened as result of identity theft or fraud
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Billing dispute for services
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Didn't receive services that were advertised
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Problem with product or service terms changing
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Received unwanted marketing or advertising
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Improper use of your report,Credit inquiries on your report that you don't recognize
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Improper use of your report,Received unsolicited financial product or insurance offers after opting out
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Improper use of your report,Report provided to employer without your written authorization
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Improper use of your report,Reporting company used your report improperly
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Account information incorrect
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Account status incorrect
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Information is missing that should be on the report
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Old information reappears or never goes away
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Personal information incorrect
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Incorrect information on your report,Public record information inaccurate
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Investigation took more than 30 days
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Problem with personal statement of dispute
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Was not notified of investigation status or results
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Unable to get your credit report or credit score,Other problem getting your report or credit score
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Credit Reporting & Identity Protection,Unable to get your credit report or credit score,Problem getting your free annual credit report
+"Credit reporting, credit repair services, or other personal consumer reports",Credit reporting,Other or Unclassified Issues,"Other features, terms, or problems",Privacy issues
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Credit Reporting & Identity Protection,Identity theft protection or other monitoring services,Billing dispute for services
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Credit Reporting & Identity Protection,Identity theft protection or other monitoring services,Didn't receive services that were advertised
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Credit Reporting & Identity Protection,Identity theft protection or other monitoring services,Problem canceling credit monitoring or identify theft protection service
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Credit Reporting & Identity Protection,Identity theft protection or other monitoring services,Problem with product or service terms changing
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Credit Reporting & Identity Protection,Identity theft protection or other monitoring services,Received unwanted marketing or advertising
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Credit Reporting & Identity Protection,Improper use of your report,Received unsolicited financial product or insurance offers after opting out
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Credit Reporting & Identity Protection,Improper use of your report,Report provided to employer without your written authorization
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Credit Reporting & Identity Protection,Improper use of your report,Reporting company used your report improperly
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Credit Reporting & Identity Protection,Incorrect information on your report,Information is incorrect
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Credit Reporting & Identity Protection,Incorrect information on your report,Information that should be on the report is missing
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Credit Reporting & Identity Protection,Incorrect information on your report,Personal information incorrect
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Credit Reporting & Identity Protection,Incorrect information on your report,Public record information inaccurate
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Poor Service & Broken Promises,Problem with a company's investigation into an existing issue,Difficulty submitting a dispute or getting information about a dispute over the phone
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Poor Service & Broken Promises,Problem with a company's investigation into an existing issue,Investigation took more than 30 days
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Poor Service & Broken Promises,Problem with a company's investigation into an existing issue,Problem with personal statement of dispute
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Poor Service & Broken Promises,Problem with a company's investigation into an existing issue,Their investigation did not fix an error on your report
+"Credit reporting, credit repair services, or other personal consumer reports",Other personal consumer report,Poor Service & Broken Promises,Problem with a company's investigation into an existing issue,Was not notified of investigation status or results
+Debt collection,Auto debt,Digital Wallet & Online Services,Electronic communications,Contacted before 8am or after 9pm
+Debt collection,Auto debt,Digital Wallet & Online Services,Electronic communications,Frequent or repeated messages
+Debt collection,Auto debt,Digital Wallet & Online Services,Electronic communications,"You told them to stop contacting you, but they keep trying"
+Debt collection,Auto debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt is not yours
+Debt collection,Auto debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was already discharged in bankruptcy and is no longer owed
+Debt collection,Auto debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was paid
+Debt collection,Auto debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was result of identity theft
+Debt collection,Auto debt,"Fraud, Scams & Threatening Behavior",Threatened to contact someone or share information improperly,Contacted you after you asked them to stop
+Debt collection,Auto debt,"Fraud, Scams & Threatening Behavior",Threatened to contact someone or share information improperly,Talked to a third-party about your debt
+Debt collection,Auto debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Seized or attempted to seize your property
+Debt collection,Auto debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Threatened or suggested your credit would be damaged
+Debt collection,Auto debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Threatened to sue you for very old debt
+Debt collection,Auto debt,"Fraud, Scams & Threatening Behavior",Written notification about debt,Didn't receive enough information to verify debt
+Debt collection,Auto debt,"Fraud, Scams & Threatening Behavior",Written notification about debt,Didn't receive notice of right to dispute
+Debt collection,Auto debt,"Fraud, Scams & Threatening Behavior",Written notification about debt,Notification didn't disclose it was an attempt to collect a debt
+Debt collection,Auto debt,Misleading Information & Advertising,False statements or representation,Attempted to collect wrong amount
+Debt collection,Auto debt,Misleading Information & Advertising,False statements or representation,Indicated you were committing crime by not paying debt
+Debt collection,Auto debt,Other or Unclassified Issues,Communication tactics,Called before 8am or after 9pm
+Debt collection,Auto debt,Other or Unclassified Issues,Communication tactics,Frequent or repeated calls
+Debt collection,Auto debt,Other or Unclassified Issues,Communication tactics,"Used obscene, profane, or other abusive language"
+Debt collection,Auto debt,Other or Unclassified Issues,Communication tactics,"You told them to stop contacting you, but they keep trying"
+Debt collection,Credit card debt,Digital Wallet & Online Services,Electronic communications,Contacted before 8am or after 9pm
+Debt collection,Credit card debt,Digital Wallet & Online Services,Electronic communications,Frequent or repeated messages
+Debt collection,Credit card debt,Digital Wallet & Online Services,Electronic communications,"Used obscene, profane, or other abusive language"
+Debt collection,Credit card debt,Digital Wallet & Online Services,Electronic communications,"You told them to stop contacting you, but they keep trying"
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt is not yours
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was already discharged in bankruptcy and is no longer owed
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was paid
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was result of identity theft
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Threatened to contact someone or share information improperly,Contacted you after you asked them to stop
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Threatened to contact someone or share information improperly,Contacted your employer
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Threatened to contact someone or share information improperly,Talked to a third-party about your debt
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Collected or attempted to collect exempt funds
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Seized or attempted to seize your property
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Sued you in a state where you do not live or did not sign for the debt
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Sued you without properly notifying you of lawsuit
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Threatened or suggested your credit would be damaged
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Threatened to arrest you or take you to jail if you do not pay
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Threatened to sue you for very old debt
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Threatened to turn you in to immigration or deport you
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Written notification about debt,Didn't receive enough information to verify debt
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Written notification about debt,Didn't receive notice of right to dispute
+Debt collection,Credit card debt,"Fraud, Scams & Threatening Behavior",Written notification about debt,Notification didn't disclose it was an attempt to collect a debt
+Debt collection,Credit card debt,Misleading Information & Advertising,False statements or representation,Attempted to collect wrong amount
+Debt collection,Credit card debt,Misleading Information & Advertising,False statements or representation,"Impersonated attorney, law enforcement, or government official"
+Debt collection,Credit card debt,Misleading Information & Advertising,False statements or representation,Indicated you were committing crime by not paying debt
+Debt collection,Credit card debt,Misleading Information & Advertising,False statements or representation,Told you not to respond to a lawsuit they filed against you
+Debt collection,Credit card debt,Other or Unclassified Issues,Communication tactics,Called before 8am or after 9pm
+Debt collection,Credit card debt,Other or Unclassified Issues,Communication tactics,Frequent or repeated calls
+Debt collection,Credit card debt,Other or Unclassified Issues,Communication tactics,"Used obscene, profane, or other abusive language"
+Debt collection,Credit card debt,Other or Unclassified Issues,Communication tactics,"You told them to stop contacting you, but they keep trying"
+Debt collection,Federal student loan debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was paid
+Debt collection,Medical debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt is not yours
+Debt collection,Medical debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was result of identity theft
+Debt collection,Medical debt,"Fraud, Scams & Threatening Behavior",Written notification about debt,Didn't receive enough information to verify debt
+Debt collection,Medical debt,Other or Unclassified Issues,Communication tactics,"You told them to stop contacting you, but they keep trying"
+Debt collection,Mortgage debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was paid
+Debt collection,Other debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt is not yours
+Debt collection,Other debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was paid
+Debt collection,Other debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was result of identity theft
+Debt collection,Other debt,"Fraud, Scams & Threatening Behavior",Threatened to contact someone or share information improperly,Contacted you after you asked them to stop
+Debt collection,Other debt,"Fraud, Scams & Threatening Behavior",Threatened to contact someone or share information improperly,Contacted you instead of your attorney
+Debt collection,Other debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Threatened or suggested your credit would be damaged
+Debt collection,Other debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Threatened to arrest you or take you to jail if you do not pay
+Debt collection,Other debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Threatened to sue you for very old debt
+Debt collection,Other debt,"Fraud, Scams & Threatening Behavior",Written notification about debt,Didn't receive enough information to verify debt
+Debt collection,Other debt,"Fraud, Scams & Threatening Behavior",Written notification about debt,Didn't receive notice of right to dispute
+Debt collection,Other debt,"Fraud, Scams & Threatening Behavior",Written notification about debt,Notification didn't disclose it was an attempt to collect a debt
+Debt collection,Other debt,Misleading Information & Advertising,False statements or representation,Attempted to collect wrong amount
+Debt collection,Other debt,Other or Unclassified Issues,Communication tactics,Frequent or repeated calls
+Debt collection,Other debt,Other or Unclassified Issues,Communication tactics,"Used obscene, profane, or other abusive language"
+Debt collection,Other debt,Other or Unclassified Issues,Communication tactics,"You told them to stop contacting you, but they keep trying"
+Debt collection,Payday loan debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt is not yours
+Debt collection,Payday loan debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was paid
+Debt collection,Private student loan debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was already discharged in bankruptcy and is no longer owed
+Debt collection,Private student loan debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was result of identity theft
+Debt collection,Rental debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was paid
+Debt collection,Rental debt,Misleading Information & Advertising,False statements or representation,Attempted to collect wrong amount
+Debt collection,Telecommunications debt,Digital Wallet & Online Services,Electronic communications,Frequent or repeated messages
+Debt collection,Telecommunications debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt is not yours
+Debt collection,Telecommunications debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was already discharged in bankruptcy and is no longer owed
+Debt collection,Telecommunications debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was paid
+Debt collection,Telecommunications debt,"Fraud, Scams & Threatening Behavior",Attempts to collect debt not owed,Debt was result of identity theft
+Debt collection,Telecommunications debt,"Fraud, Scams & Threatening Behavior",Threatened to contact someone or share information improperly,Contacted you after you asked them to stop
+Debt collection,Telecommunications debt,"Fraud, Scams & Threatening Behavior",Took or threatened to take negative or legal action,Threatened or suggested your credit would be damaged
+Debt collection,Telecommunications debt,Misleading Information & Advertising,False statements or representation,Attempted to collect wrong amount
+Mortgage,Conventional home mortgage,Loan & Mortgage Problems,Struggling to pay mortgage,"Trying to communicate with the company to fix an issue related to modification, forbearance, short sale, deed-in-lieu, bankruptcy, or foreclosure"
+Mortgage,Conventional home mortgage,Payment & Transaction Errors,Trouble during payment process,Payment process
+Mortgage,FHA mortgage,Loan & Mortgage Problems,Applying for a mortgage or refinancing an existing mortgage,Application denials
+Mortgage,Home equity loan or line of credit (HELOC),Credit Reporting & Identity Protection,Incorrect information on your report,Old information reappears or never goes away
+Mortgage,Home equity loan or line of credit (HELOC),Payment & Transaction Errors,Trouble during payment process,Trying to communicate with the company to fix an issue while managing or servicing your loan
+Mortgage,Reverse mortgage,Payment & Transaction Errors,Trouble during payment process,"Escrow, taxes, or insurance"
+"Payday loan, title loan, or personal loan",Personal line of credit,Credit Reporting & Identity Protection,Improper use of your report,Credit inquiries on your report that you don't recognize
+"Payday loan, title loan, personal loan, or advance loan",Installment loan,Credit Reporting & Identity Protection,Incorrect information on your report,Account status incorrect
+"Payday loan, title loan, personal loan, or advance loan",Installment loan,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+"Payday loan, title loan, personal loan, or advance loan",Installment loan,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report
+"Payday loan, title loan, personal loan, or advance loan",Personal line of credit,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Didn't receive services that were advertised
+"Payday loan, title loan, personal loan, or advance loan",Personal line of credit,Credit Reporting & Identity Protection,Improper use of your report,Credit inquiries on your report that you don't recognize
+"Payday loan, title loan, personal loan, or advance loan",Personal line of credit,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+"Payday loan, title loan, personal loan, or advance loan",Title loan,Credit Reporting & Identity Protection,Improper use of your report,Credit inquiries on your report that you don't recognize
+"Payday loan, title loan, personal loan, or advance loan",Title loan,Credit Reporting & Identity Protection,Incorrect information on your report,Account status incorrect
+Prepaid card,General-purpose prepaid card,Credit & Payment Card Issues,Problem getting a card or closing an account,Don't want a card provided by your employer or the government
+Prepaid card,General-purpose prepaid card,Credit & Payment Card Issues,Problem getting a card or closing an account,Trouble closing card
+Prepaid card,General-purpose prepaid card,Credit & Payment Card Issues,Problem getting a card or closing an account,"Trouble getting, activating, or registering a card"
+Prepaid card,General-purpose prepaid card,Credit & Payment Card Issues,Problem with a purchase or transfer,Card company isn't resolving a dispute about a purchase or transfer
+Prepaid card,General-purpose prepaid card,Misleading Information & Advertising,Advertising,Confusing or misleading advertising about the card
+Prepaid card,General-purpose prepaid card,Payment & Transaction Errors,Problem with overdraft,Overdraft charges
+Prepaid card,Gift card,Credit & Payment Card Issues,Problem getting a card or closing an account,Trouble closing card
+Prepaid card,Gift card,Credit & Payment Card Issues,Problem getting a card or closing an account,"Trouble getting, activating, or registering a card"
+Prepaid card,Gift card,Misleading Information & Advertising,Advertising,Changes in terms from what was offered or advertised
+Prepaid card,Payroll card,Credit & Payment Card Issues,Problem getting a card or closing an account,Trouble closing card
+Prepaid card,Payroll card,Credit & Payment Card Issues,Problem getting a card or closing an account,"Trouble getting, activating, or registering a card"
+Prepaid card,Payroll card,Credit & Payment Card Issues,Problem with a purchase or transfer,Charged for a purchase or transfer you did not make with the card
+Prepaid card,Payroll card,Credit & Payment Card Issues,Trouble using the card,Problem using the card to withdraw money from an ATM
+Student loan,Federal student loan servicing,Credit Reporting & Identity Protection,Improper use of your report,Reporting company used your report improperly
+Student loan,Private student loan,Loan & Mortgage Problems,Getting a loan,Denied loan
+Student loan,Private student loan,Poor Service & Broken Promises,Dealing with your lender or servicer,Don't agree with the fees charged
+Vehicle loan or lease,Lease,Asset Repossession & Damage,Repossession,Deficiency balance after repossession
+Vehicle loan or lease,Lease,Asset Repossession & Damage,Repossession,Lender trying to repossess or disable the vehicle
+Vehicle loan or lease,Lease,Asset Repossession & Damage,Repossession,Loan balance remaining after the vehicle is repossessed and sold
+Vehicle loan or lease,Lease,Asset Repossession & Damage,Repossession,Voluntary repossession
+Vehicle loan or lease,Lease,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Billing dispute for services
+Vehicle loan or lease,Lease,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service
+Vehicle loan or lease,Lease,Credit Reporting & Identity Protection,Improper use of your report,Credit inquiries on your report that you don't recognize
+Vehicle loan or lease,Lease,Credit Reporting & Identity Protection,Incorrect information on your report,Account information incorrect
+Vehicle loan or lease,Lease,Credit Reporting & Identity Protection,Incorrect information on your report,Account status incorrect
+Vehicle loan or lease,Lease,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+Vehicle loan or lease,Lease,Credit Reporting & Identity Protection,Incorrect information on your report,Old information reappears or never goes away
+Vehicle loan or lease,Lease,Credit Reporting & Identity Protection,Incorrect information on your report,Public record information inaccurate
+Vehicle loan or lease,Lease,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Their investigation did not fix an error on your report
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Getting a loan or lease,Confusing or misleading advertising or marketing
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Getting a loan or lease,Credit denial
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Getting a loan or lease,Fraudulent loan
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Getting a loan or lease,Loan opened without my consent or knowledge
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Getting a loan or lease,Problem with additional add-on products or services purchased with the loan
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Getting a loan or lease,Problem with signing the paperwork
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Managing the loan or lease,Billing problem
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Managing the loan or lease,Problem with additional products or services purchased with the loan
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Managing the loan or lease,Problem with fees charged
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Managing the loan or lease,Problem with the interest rate
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Problems at the end of the loan or lease,Problem related to refinancing
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Problems at the end of the loan or lease,Problem while selling or giving up the vehicle
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Problems at the end of the loan or lease,Unable to receive car title or other problem after the loan is paid off
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Struggling to pay your loan,Denied request to lower payments
+Vehicle loan or lease,Lease,Loan & Mortgage Problems,Struggling to pay your loan,Loan balance remaining after the vehicle is repossessed and sold
+Vehicle loan or lease,Lease,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Investigation took more than 30 days
+Vehicle loan or lease,Lease,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report
+Vehicle loan or lease,Loan,Asset Repossession & Damage,Repossession,Account reinstatement or redemption after repossession
+Vehicle loan or lease,Loan,Asset Repossession & Damage,Repossession,Company communicating payment assistance or payment extension options
+Vehicle loan or lease,Loan,Asset Repossession & Damage,Repossession,Company explaining amount owed
+Vehicle loan or lease,Loan,Asset Repossession & Damage,Repossession,Damage caused or loss of personal items in vehicle during the actual repossession
+Vehicle loan or lease,Loan,Asset Repossession & Damage,Repossession,Deficiency balance after repossession
+Vehicle loan or lease,Loan,Asset Repossession & Damage,Repossession,Lender trying to repossess or disable the vehicle
+Vehicle loan or lease,Loan,Asset Repossession & Damage,Repossession,Loan balance remaining after the vehicle is repossessed and sold
+Vehicle loan or lease,Loan,Asset Repossession & Damage,Repossession,Notice to repossess
+Vehicle loan or lease,Loan,Asset Repossession & Damage,Repossession,Voluntary repossession
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Billing dispute for services
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Credit monitoring or identity theft protection services,Problem canceling credit monitoring or identify theft protection service
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Improper use of your report,Credit inquiries on your report that you don't recognize
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Improper use of your report,Report provided to employer without your written authorization
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Improper use of your report,Reporting company used your report improperly
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Incorrect information on your report,Account information incorrect
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Incorrect information on your report,Account status incorrect
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Incorrect information on your report,Information belongs to someone else
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Incorrect information on your report,Information is missing that should be on the report
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Incorrect information on your report,Old information reappears or never goes away
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Incorrect information on your report,Personal information incorrect
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Incorrect information on your report,Public record information inaccurate
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Problem with a credit reporting company's investigation into an existing problem,Investigation took more than 30 days
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Unable to get your credit report or credit score,Other problem getting your report or credit score
+Vehicle loan or lease,Loan,Credit Reporting & Identity Protection,Unable to get your credit report or credit score,Problem getting your free annual credit report
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Getting a loan or lease,Changes in terms mid-deal or after closing
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Getting a loan or lease,Confusing or misleading advertising or marketing
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Getting a loan or lease,Credit denial
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Getting a loan or lease,Did not receive car title
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Getting a loan or lease,Fraudulent loan
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Getting a loan or lease,High-pressure sales tactics
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Getting a loan or lease,Loan opened without my consent or knowledge
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Getting a loan or lease,Problem with a trade-in
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Getting a loan or lease,Problem with additional add-on products or services purchased with the loan
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Getting a loan or lease,Problem with signing the paperwork
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Managing the loan or lease,Billing problem
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Managing the loan or lease,Loan sold or transferred to another company
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Managing the loan or lease,Problem with additional products or services purchased with the loan
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Managing the loan or lease,Problem with fees charged
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Managing the loan or lease,Problem with the interest rate
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Problems at the end of the loan or lease,Problem related to refinancing
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Problems at the end of the loan or lease,Problem while selling or giving up the vehicle
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Problems at the end of the loan or lease,Problem with paying off the loan
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Problems at the end of the loan or lease,Unable to receive car title or other problem after the loan is paid off
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Struggling to pay your loan,Denied request to lower payments
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Struggling to pay your loan,Lender trying to repossess or disable the vehicle
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Struggling to pay your loan,Loan balance remaining after the vehicle is repossessed and sold
+Vehicle loan or lease,Loan,Loan & Mortgage Problems,Struggling to pay your loan,Problem after you declared or threatened to declare bankruptcy
+Vehicle loan or lease,Loan,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Difficulty submitting a dispute or getting information about a dispute over the phone
+Vehicle loan or lease,Loan,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Investigation took more than 30 days
+Vehicle loan or lease,Loan,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Problem with personal statement of dispute
+Vehicle loan or lease,Loan,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Their investigation did not fix an error on your report
+Vehicle loan or lease,Loan,Poor Service & Broken Promises,Problem with a company's investigation into an existing problem,Was not notified of investigation status or results
+Vehicle loan or lease,Title loan,Credit Reporting & Identity Protection,Improper use of your report,Reporting company used your report improperly
+Vehicle loan or lease,Title loan,Credit Reporting & Identity Protection,Incorrect information on your report,Account status incorrect
