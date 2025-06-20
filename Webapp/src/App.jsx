@@ -34,12 +34,20 @@ function App() {
     setLoading(true);
     setResponse('');
     try {
-      const res = await fetch('https://example.com/api/complaints', {
+      const res = await fetch('https://nguyenn.app.n8n.cloud/webhook/dc7c8e84-bf6c-4ad9-a533-61e13ba8c04f', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ product, subProduct, issueGroup, issue, subIssue, complaint }),
       });
-      const data = await res.text();
+      const text = await res.text();
+      const data = (() => {
+        try {
+          const arr = JSON.parse(text);
+          return Array.isArray(arr) && arr[0]?.output ? arr[0].output : text;
+        } catch {
+          return text;
+        }
+      })();
       setResponse(data);
     } catch (err) {
       setResponse('Failed to submit complaint.');
