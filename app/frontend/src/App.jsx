@@ -16,7 +16,7 @@ function App() {
             onClick={() => setActiveTab('layer1')}
           >
             <span className="tab-icon">📊</span>
-            <span className="tab-label">Layer 1</span>
+            <span className="tab-label">Step 1</span>
             <span className="tab-subtitle">Risk Classification</span>
           </button>
           <button 
@@ -24,7 +24,7 @@ function App() {
             onClick={() => setActiveTab('layer2')}
           >
             <span className="tab-icon">🎯</span>
-            <span className="tab-label">Layer 2</span>
+            <span className="tab-label">Step 2</span>
             <span className="tab-subtitle">Priority Classification</span>
           </button>
         </div>
