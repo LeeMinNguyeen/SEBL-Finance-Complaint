@@ -247,6 +247,17 @@ Common complaints we receive:
 Hotel terminology we use: RevPAR, ADR, OTA (Online Travel Agency), PMS (Property Management System), comp nights, rack rate, late checkout, turn-down service, amenity fee, resort fee, incidentals hold, folio, no-show policy, and blackout dates.
 ```
 
+## Test Case 9: E-commerce Retails
+
+### Conversation Flow
+
+**User Prompt:**
+```
+I run an e-commerce retailing platform selling electronics and gadgets. I'm an popular influencer. The retail website is set up based in the US between the '23-'24 period. I  sell clothing, ornaments and other products at variable rates through the retail website to all of their followers across the world. Imagine that the influencer executes high levels of promotions for the materials they sell, prompting more ratings and reviews from their followers, pushing more user engagement. My customer range is about 14-25 years old, mostly my fans.
+
+We use terms like COD (cash on delivery), flash deals, and prime membership for faster shipping.
+```
+
 ---
 
 ## Expected Outputs
